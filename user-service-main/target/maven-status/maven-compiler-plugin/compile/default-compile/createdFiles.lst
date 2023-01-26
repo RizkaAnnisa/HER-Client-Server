@@ -1,0 +1,6 @@
+com\bintang\userservice\repository\UserRepository.class
+com\bintang\userservice\service\UserService.class
+com\bintang\userservice\dto\User.class
+com\bintang\userservice\UserServiceApplication.class
+com\bintang\userservice\service\UserServiceImpl.class
+com\bintang\userservice\controller\UserController.class
