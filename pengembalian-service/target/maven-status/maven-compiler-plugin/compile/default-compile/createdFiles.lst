@@ -1,0 +1,10 @@
+com\fariz\pengembalian\service\entity\Pengembalian.class
+com\fariz\pengembalian\service\VO\ResponseTemplateVOPinjam.class
+com\fariz\pengembalian\service\PengembalianServiceApplication.class
+com\fariz\pengembalian\service\repository\PengembalianRepository.class
+com\fariz\pengembalian\service\service\PengembalianService.class
+com\fariz\pengembalian\service\VO\Anggota.class
+com\fariz\pengembalian\service\VO\Buku.class
+com\fariz\pengembalian\service\VO\ResponseTemplateVO.class
+com\fariz\pengembalian\service\controller\PengembalianController.class
+com\fariz\pengembalian\service\VO\Peminjaman.class
