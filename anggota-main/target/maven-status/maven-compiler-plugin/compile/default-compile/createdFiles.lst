@@ -1,0 +1,5 @@
+com\rizka\anggota\contoller\AnggotaController.class
+com\rizka\anggota\AnggotaApplication.class
+com\rizka\anggota\service\AnggotaService.class
+com\rizka\anggota\repository\AnggotaRepository.class
+com\rizka\anggota\entity\Anggota.class
